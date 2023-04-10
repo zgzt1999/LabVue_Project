@@ -1,0 +1,23 @@
+{
+  "id": "3455062",
+  "name": "测试",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-team",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13972359",
+      "name": "知识产权",
+      "font_class": "zhishichanquan",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "8574233",
+      "name": "论文管理",
+      "font_class": "lunwenguanli",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    }
+  ]
+}
